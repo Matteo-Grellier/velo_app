@@ -1,6 +1,6 @@
-package com.formation.velo.api.client;
+package com.formation.velo.api.client.velo;
 
-import com.formation.velo.api.OpenData;
+import com.formation.velo.api.client.velo.OpenData;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

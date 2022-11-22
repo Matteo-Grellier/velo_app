@@ -1,7 +1,7 @@
 package com.formation.velo.service.impl;
 
-import com.formation.velo.api.OpenData;
-import com.formation.velo.api.client.OpenDataNantesClient;
+import com.formation.velo.api.client.velo.OpenData;
+import com.formation.velo.api.client.velo.OpenDataNantesClient;
 import com.formation.velo.model.Stations;
 import com.formation.velo.service.StationsService;
 

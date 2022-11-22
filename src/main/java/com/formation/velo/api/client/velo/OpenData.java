@@ -1,4 +1,6 @@
-package com.formation.velo.api;
+package com.formation.velo.api.client.velo;
+
+import com.formation.velo.api.client.velo.Record;
 
 import lombok.Getter;
 import lombok.Setter;
